@@ -1,4 +1,4 @@
-- name: Run Feed generator
+name: Generate Podcast Feeds
 
 on: [push]
 
